@@ -4,8 +4,8 @@ Simple test repository for AI agent examples.
 
 ## Files
 
-- `hello.py` - Simple greeting example
-- `calculator.py` - Basic calculator  
+- `hello.py` - Simple greeting example  
+- `calculator.py` - Basic calculator
 
 ## Usage
 
